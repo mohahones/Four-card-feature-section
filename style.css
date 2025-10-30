@@ -155,6 +155,8 @@ footer div.card4 p {
 
 /* media */
 @media (min-width:920px) {
+    body{
+        height: 100vh;
     main {
         width: calc(442px*3);
         display: flex;
@@ -184,4 +186,5 @@ footer div.card4 p {
         padding: 30px;
     }
     
+
 }
